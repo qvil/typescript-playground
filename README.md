@@ -1,7 +1,5 @@
 # [Typescript Playground](https://github.com/qvil/typescript-playground)
 
-Description
-
 <!-- ## [Demo](https://qvil.github.io/typescript-playground/) -->
 
 <!-- ## Prerequisites

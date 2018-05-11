@@ -1,5 +1,9 @@
 import * as React from "react";
+import { createClock, DigitalClock } from "./Clock";
 import Person from "./Person";
+
+const digital = createClock(DigitalClock, 12, 30);
+digital.tick();
 
 class App extends React.Component {
   public render() {
