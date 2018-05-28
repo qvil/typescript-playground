@@ -1,6 +1,8 @@
 # [Typescript Playground](https://github.com/qvil/typescript-playground)
 
-<!-- ## [Demo](https://qvil.github.io/typescript-playground/) -->
+## Demo
+
+https://qvil.github.io/typescript-playground/
 
 <!-- ## Prerequisites
 - Node.js >= 8.x (Recommended the latest version) -->
